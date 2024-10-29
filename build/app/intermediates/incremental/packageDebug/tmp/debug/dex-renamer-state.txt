@@ -1,8 +1,8 @@
-#Mon Oct 28 23:58:27 WIB 2024
-base.0=/Users/bugon/Documents/Project/Code/Flutter & Dart Project/flutter_app/build/app/intermediates/dex/debug/mergeExtDexDebug/classes.dex
-base.1=/Users/bugon/Documents/Project/Code/Flutter & Dart Project/flutter_app/build/app/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
-base.2=/Users/bugon/Documents/Project/Code/Flutter & Dart Project/flutter_app/build/app/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
-base.3=/Users/bugon/Documents/Project/Code/Flutter & Dart Project/flutter_app/build/app/intermediates/dex/debug/mergeProjectDexDebug/5/classes.dex
+#Tue Oct 29 17:26:10 WIB 2024
+base.0=/Users/bugon/Documents/Project/Code/Flutter & Dart Project/First-Screen-Flutter/build/app/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/Users/bugon/Documents/Project/Code/Flutter & Dart Project/First-Screen-Flutter/build/app/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.2=/Users/bugon/Documents/Project/Code/Flutter & Dart Project/First-Screen-Flutter/build/app/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
+base.3=/Users/bugon/Documents/Project/Code/Flutter & Dart Project/First-Screen-Flutter/build/app/intermediates/dex/debug/mergeProjectDexDebug/5/classes.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=1/classes.dex

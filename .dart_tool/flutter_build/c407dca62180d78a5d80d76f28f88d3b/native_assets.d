@@ -1,0 +1,1 @@
+ /Users/bugon/Documents/Project/Code/Flutter\ &\ Dart\ Project/First-Screen-Flutter/.dart_tool/flutter_build/c407dca62180d78a5d80d76f28f88d3b/native_assets.yaml: 
